@@ -68,6 +68,9 @@ p{
 .red{
    color: red;
 }
+.rozowy{
+   color: rgb(230, 4, 203);
+}
 .blue{
    color: blue;
 }
@@ -77,11 +80,19 @@ p{
 .violet{
    color: rgb(105, 14, 190);
 }
+.yellow{
+   color: rgb(242, 150, 2);
+}
 .b{
    font-weight: 900;
    color: blue;
 }
 
+.menu{
+   font-size: 22px;
+   font-weight: 600;
+   font-family:Georgia, 'Times New Roman', Times, serif;
+}
 .slowa{
    width: 70%;
    margin: 0 auto;
